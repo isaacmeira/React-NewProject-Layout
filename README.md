@@ -1,10 +1,10 @@
 ## Table of contents
 
- -  Eslint, Prettier, editor Config configurations.
+ -  Eslint, Prettier, and Editor Config configurations.
  -  Styled components and global styles.
- -  React Router Dom
- -  Babel, webpack
- -  Ready to create your project
+ -  React Router Dom.
+ -  Babel, webpack.
+ -  Ready to create your project.
 
 ## Available Scripts
 
