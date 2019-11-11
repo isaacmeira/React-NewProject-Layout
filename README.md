@@ -5,6 +5,11 @@
  -  React Router Dom.
  -  Babel, webpack.
  -  Ready to create your project.
+ - if your preffer, install the styled components extension in vscode for a better view from css in styled components files.
+ 
+## Starting
+
+- Just `yarn` in your terminal and you will make your dependencies ready.
 
 ## Available Scripts
 
