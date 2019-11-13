@@ -1,11 +1,18 @@
 import React from 'react';
 
-import { Title } from './styles';
+import {
+  Title
+} from './styles';
+import
+Card
+from '../../components/Card/Card'
 
 export default function Main() {
-  return (
-    <>
-      <Title error={false}>The server is now online</Title>;
-    </>
+  return ( <
+    >
+    <
+    Card / >
+    <
+    />
   );
 }

@@ -9,18 +9,22 @@ export default createGlobalStyle`
   }
 
   html, body, #root {
-    min-height: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   body {
-    background:linear-gradient(90deg, rgb(160, 222, 219),rgb(3, 165, 209));
+    background:linear-gradient(90deg, rgb(62, 25, 113),rgb(72, 105, 206));
     -webkit-font-smoothing: antialiased !important;
   }
 
   body, input, button {
     color: #222;
     font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+
   }
 
   button {
